@@ -68,6 +68,26 @@ python main.py account
 python main.py positions
 ```
 
+### 4. 📚 Examples
+
+We provide comprehensive examples to help you get started quickly:
+
+```bash
+# Basic analysis examples (perfect for beginners)
+python examples/basic_analysis.py
+
+# Safe trading simulation (no real money)
+python examples/dry_run_trading.py
+
+# Configuration for different risk profiles
+python examples/configuration_examples.py
+
+# Advanced features for power users
+python examples/advanced_usage.py
+```
+
+See the [examples/README.md](examples/README.md) for detailed documentation of all examples.
+
 ## Commands
 
 ### Analyze
